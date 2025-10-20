@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "postId": 1,
+    "name": "Test Comment 1",
+    "email": "test1@example.com",
+    "body": "This is a test comment for Cypress testing"
+  },
+  {
+    "id": 2,
+    "postId": 1,
+    "name": "Test Comment 2",
+    "email": "test2@example.com",
+    "body": "Another test comment for network request testing"
+  }
+]
