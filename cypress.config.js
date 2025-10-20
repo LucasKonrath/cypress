@@ -9,6 +9,7 @@ module.exports = defineConfig({
     viewportHeight: 720,
     video: true,
     screenshotOnRunFailure: true,
+    experimentalStudio: true,
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
